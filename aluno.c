@@ -24,10 +24,7 @@ typedef struct aluno Aluno;
 Aluno cadastrarAluno(int id){
     Aluno aln;
     puts("Digite o nome do aluno:");
-    /*scanf("%120[^\n]s",aln.nome);
-    aln.id = id;
-    scanf("%d/%d/%d",&aln.dtIngresso.dia,&aln.dtIngresso.mes,&aln.dtIngresso.ano);
-    */
+
     return aln;
 
 }

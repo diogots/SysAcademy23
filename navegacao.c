@@ -21,11 +21,14 @@ void exibirMenu(){
     printf("opc: ");
 }
 
+void limparBuffer(){
+    fflush(stdin);
+}
+
 void limparTela(){
     char ent;
     puts("Pressione qualquer tecla para continuar...");
-    fflush(stdin);
+    limparBuffer();
     getchar();
-    //scanf("%c",&ent);
     system("cls");
 }
