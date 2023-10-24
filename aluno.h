@@ -14,4 +14,10 @@ struct aluno{
     int tipo;
 };
 typedef struct aluno Aluno;
-Aluno* cadastrarAluno(Aluno alunos[],int id);
+void printTipo(int tipo);
+void printAluno(Aluno aln);
+Aluno cadastrarAluno(int id);
+void printAlunos(Aluno alunos[],int id);
+void salvarDadosAlunos(Aluno alunos[], int id);
+void carregarDadosAlunos(Aluno alunos[],int *pid);
+void salvarCSV(Aluno alunos[], int id);

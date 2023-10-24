@@ -1,19 +1,19 @@
 # depslib dependency file v1.0
-1697758532 source:c:\users\lenovo\documents\code blocks projects\sysacademy\sysacademy\aluno.c
+1698107478 source:c:\users\lenovo\documents\code blocks projects\sysacademy\sysacademy\aluno.c
 	<stdio.h>
 	<stdlib.h>
 
-1697762037 source:c:\users\lenovo\documents\code blocks projects\sysacademy\sysacademy\navegacao.c
+1697834919 source:c:\users\lenovo\documents\code blocks projects\sysacademy\sysacademy\navegacao.c
 	<stdio.h>
 
-1697761679 source:c:\users\lenovo\documents\code blocks projects\sysacademy\sysacademy\main.c
+1698107463 source:c:\users\lenovo\documents\code blocks projects\sysacademy\sysacademy\main.c
 	<stdio.h>
 	<stdlib.h>
 	<locale.h>
 	"aluno.h"
 	"navegacao.h"
 
-1697760317 c:\users\lenovo\documents\code blocks projects\sysacademy\sysacademy\aluno.h
+1698107435 c:\users\lenovo\documents\code blocks projects\sysacademy\sysacademy\aluno.h
 
-1697761649 c:\users\lenovo\documents\code blocks projects\sysacademy\sysacademy\navegacao.h
+1697834932 c:\users\lenovo\documents\code blocks projects\sysacademy\sysacademy\navegacao.h
 
